@@ -1,0 +1,39 @@
+body{
+    background-color: #f5f5f5;
+    font-family: Meiryo, tahoma, "Helvetica Neue",Helvetica,sans-serif, Verdana, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "Times New Roman", Arial, メイリオ, sans-serif;
+}
+.logo > img{
+	height: 30px;
+}
+.login {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.login > .logo{
+    text-align: center;
+    color: #90c31f;
+	white-space: nowrap;
+}
+.logo > h2{
+    font-weight: bold;
+    font-size: 35px;
+}
+.content {
+    margin-top: 2em;
+    background-color: #f5f5f5;
+}
+.btn-success{
+	background-color: #92c039;
+	border: none;
+	font-weight: bold;
+	height: 34px;
+    margin-top: 7px;
+}
+.btn-success:hover {
+    background-color: #7dac38;
+}
+label.zb{
+	font-weight: normal;
+}

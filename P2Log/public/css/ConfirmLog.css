@@ -1,0 +1,34 @@
+.input-daterange {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 75%;
+}
+.cp-btn-search {
+    width: 190px;
+    margin-left: 30px;
+    line-height: 30px;
+	height: 30px;
+}
+.col-1 {
+	width: 17%;
+}
+.col-2 {
+	width: 17%;
+}
+.col-3 {
+	width: 19%;
+	padding: 10px;
+}
+.col-4 {
+	width: 47%;
+}
+td.col-4 > div{
+	text-align: left;
+	padding-left: 15px;
+	padding-right: 15px;
+    width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	max-width: 470px;
+	word-wrap: break-word;
+}
